@@ -4,7 +4,7 @@ Built a model using XGBClassifier to detect whether Parkinson's disease is prese
 
 ## Required libraries
 
-numpy
-pandas
-sklearn 
-xgboost
+- numpy
+- pandas
+- sklearn 
+- xgboost
